@@ -1,16 +1,13 @@
-# flutter_basic
+# Basic Flutter Modal
 
-A new Flutter project.
+Explore simple Flutter Modal.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<kbd><img width="216" height="432" src="screenshots/pic1.png" alt="Screenshot 1" /></kbd>
+<kbd><img width="216" height="432" src="screenshots/pic2.png" alt="Screenshot 2" /></kbd>
 
-A few resources to get you started if this is your first Flutter project:
+...
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Made in ❤️ with Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
